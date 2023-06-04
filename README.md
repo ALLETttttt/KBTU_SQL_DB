@@ -3,12 +3,12 @@ The repository for this course is a collection of resources, code samples, and d
 
 In this course we covered topics and use: 
 
-  •Develop SQL databases as part of an entire information system.
+  • Develop SQL databases as part of an entire information system.
 
-  •Design normalized database structures.
+  • Design normalized database structures.
 
-  •Create and manage databases.
+  • Create and manage databases.
 
-  •Create stored procedures and triggers.
+  • Create stored procedures and triggers.
 
-  •Create SQL transactions
+  • Create SQL transactions
